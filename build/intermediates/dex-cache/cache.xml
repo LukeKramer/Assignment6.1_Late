@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_9b932781caf16a78acd4d843449ff3682ce50c5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_b9d14be0857227a6dc8ec4cca3d35ce4c87088d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_ea4df3d4f0f7bbafd693fdc2d8216e67b7919bd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_66d7c96ceef2f854b1c83c5dc768bcceb0dc75f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.2_28d6fd07a9ef50814d94e41d60425c9f2f70ee48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.5_eddf3714d83c9b7156563e98dbe72f201e66f5aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_72f4ec52527aa68eda6b0387c7d00d5da8233a15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_98e4727efb201818d8553e80f4a1899d04f6d013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_5964c74b38be997c7440d7912295834bf219fc1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_fe29ef358b7fdf2635304532c1bde5aac16f7ec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_9aa2af21a6164afcc2129179884f8db5ee843982.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_dd9849f2c3c4fe1b4c9cc3a4ef2660006cb427d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_77ea3d6d7e907d494a7d1ac405d94e2fae5104e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.5_fcbefde2ea7e1f2a3032cf2ce56e862f776a47a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_8c12ad76cb033ec450fb5272dbaefa9f3072a97f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.5_be2eb6b140663c20351577fed4511be53e8ac554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_37b954721cd94bb13d035e2ba63ec2b7c621658e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_a265a5ad26caa03146292a4ebd1ad1092e4b350b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a24ef4808aa7d747250022386566e664ff6c2f4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3bc66ae7bee46acbec7898953f2e30b730a86127.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_2ea35e46347acc44b3279b1ae0936c71e22098e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_8eb2ea3feccaf65c429c5a308fea59e6e131043b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_09251f10d7cf208b59ef9b5e83cb6cf85ebdc288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_d82b17ea5b0cb851701a9fa813ec7e980ec84a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0d013d53e68c97f3af6cec214753dd0c9c1d10fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_299ff180842ddda0934bc62a5c5eab6388cb5304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ca71644e47b108b6ffbe1ee89edb7dc51ead6064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_e3c0b98dcd5ed341c72369e3a8bf96525a5fbc9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_f7edde55c5286997485b66bf91e8d64262229676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_d17485630bc82db1f31e05abdcc6a61476ec6302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.5_c80e48a014e547395f9ac5e26cc4e35fdcbd9505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_4052f45f7df8a3ed7c4b985c0ef2508636de6bc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_8a8705526fadf90547835e389c2f4ff44e766bb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_f06f6753c47e5b99440529015b826993d25e2532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_b53b68762321a5209cc387eeb5d9128d15d91868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_d97b09d9aa06e7ec8f178af629a9269cf6e2a573.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.2_40cf1570bc38c82870889ba9459e10ab2bae9835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_c520100016ac01192835e3384dad4ebe558ccabd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_77ae058a3bc471ac42b63f7426939bb4c7f4febb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_fcddabbc83d9eed7202ba588747e4e2b80e6af97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_06e2f61a717660adb6f83238d10948831545a6a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_5926636d8751b1424eeea7505d7b33eba36d5b7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_ed0e2618d72f1b9cf31fa354e7758d1667fbb8c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_e1256562a949fe89778d22ba94387265c168cb5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/lukekramer/Desktop/Assignment6.1_Late/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_423dd30c81b29c981a91d7bd48abb0aec2c12569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_6ee094e402c1bf380d2df496ca5c2613a4435102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/lukekramer/AndroidStudioProjects/VirtualZoo/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_e022b829992a1b2c87950409e0c72f41ee176585.jar" />
+    </item>
+
+</items>
